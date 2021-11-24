@@ -1,10 +1,11 @@
-﻿**1. Giới thiệu JSX**
+ *Tìm hiểu cơ bản về ReactJS*
+ **1. Giới thiệu JSX**
 
 \- Nhúng biểu thức trong JSX: đặt vào cặp dấu ngoặc nhọn { }
 
 const name = "Josh Perez";
 
-const element = <h1>Hello, {name}</h1>;
+> const element = <h1>Hello, {name}</h1>;
 
 Có thể nhúng hàm hay bất kỳ biểu thức JS hợp lệ nào vào bên trong dấu ngoặc nhọn JSX.
 
